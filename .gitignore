@@ -6,3 +6,5 @@ dest/
 tasks/
 /bin/
 .DS_Store
+.idea
+adtpro.iml
